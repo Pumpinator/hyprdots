@@ -77,3 +77,17 @@ pokemon-colorscripts-git|zsh                           # display pokemon sprites
 
 # --------------------------------------------------- // HyDE
 hyde-cli-git                                           # cli tool to manage hyde
+
+# --------------------------------------------------- // Alejandro
+docker
+jdk-openjdk
+jre-openjre
+jdk17-openjdk
+jre17-openjdk
+ranger
+obs-studio
+unzip
+htop
+libreoffice-fresh
+hplip
+gimp
